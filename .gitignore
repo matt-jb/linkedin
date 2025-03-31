@@ -138,3 +138,6 @@ dist
 # Gulp
 .sass-cache
 gulpfile.js
+
+# Misc
+.DS_Store
